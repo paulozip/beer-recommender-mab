@@ -1,40 +1,38 @@
-id,brand,image_url
-,Chopp Brahma,https://i2marabraz-a.akamaihd.net/1800x1800/59/00283231761__1_B_ND.jpg
-,Bavária,https://static.carrefour.com.br/medias/sys_master/images/images/h59/h3c/h00/h00/13247502221342.jpg
-,Bohemia,https://static.carrefour.com.br/medias/sys_master/images/images/hbb/h22/h00/h00/14564861050910.jpg
-,Crystal,https://static.carrefour.com.br/medias/sys_master/images/images/h6b/h2f/h00/h00/9416548384798.jpg
-,Kaiser,https://static.carrefour.com.br/medias/sys_master/images/images/hd3/h0e/h00/h00/13247569330206.jpg
-,Itaipava,https://comper.vteximg.com.br/arquivos/ids/158684-800-800/137367.jpg?v=637210497271970000
-,Schin,https://static.carrefour.com.br/medias/sys_master/images/images/ha9/h47/h00/h00/13247492718622.jpg
-,Antarctica,https://savegnago.vteximg.com.br/arquivos/ids/278435-1000-1000/CERVEJA-ANTARCTICA-350ML-LATA.jpg
-,Brahma,https://static.carrefour.com.br/medias/sys_master/images/images/hce/h53/h00/h00/14684794781726.jpg
-,Skol,https://savegnago.vteximg.com.br/arquivos/ids/278450-1000-1000/CERVEJA-SKOL-350ML-LATA.jpg?v=636262097742900000
-,Heineken,https://savegnago.vteximg.com.br/arquivos/ids/270413-1000-1000/figura-1frente.jpg
-,Budweiser,https://static.carrefour.com.br/medias/sys_master/images/images/h1f/h60/h00/h00/14565659705374.jpg
-,Coruja,https://statics.angeloni.com.br/super/files/produtos/3868953/3868953_1_zoom.jpg
-,Dado Bier,https://statics.angeloni.com.br/super/files/produtos/4065620/4065620_1_zoom.jpg
-,Perro Libre,https://d2o1s8t60x9u9v.cloudfront.net/Custom/Content/Products/98/67/986719_cerveja-perro-libre-apa-american-pale-ale-500ml_z1_636686302340813147.jpg
-,Tupiniquim,https://images.tcdn.com.br/img/img_prod/657582/cerveja_tupiniquim_session_ipa_600_ml_341_1_20191122083851.jpg
-,Lake Side Beer,https://thebeerplanet.vteximg.com.br/arquivos/ids/466829-1000-1000/Cerveja-Lake-Side-Beer-Lager-Sem-Gluten-355ml.jpg
-,Bierland,https://thebeerplanet.vteximg.com.br/arquivos/ids/468018-1000-1000/Cerveja-Bierland-Pilsen-Lata-350ml.jpg?v=637098096361570000
-,Eisenbahn,https://muffatosupermercados.vteximg.com.br/arquivos/ids/270597-1000-1000/7898367983615.jpg
-,Schornstein,https://cervejabox.vteximg.com.br/arquivos/ids/185154-600-600/Cerveja-artesanal-Schornstein-IPA-500ml-1.jpg
-,Bierbaum,https://d8vlg9z1oftyc.cloudfront.net/minhacooper/image/product/5b28bf7402f518d0755b044c13ae0c8620191114100851/850/cerveja-bierbaum-vienna-garrafa-600ml_1924.jpg
-,Bier Hoff,https://muffatosupermercados.vteximg.com.br/arquivos/ids/225175-1000-1000/7898940264025.jpg
-,Bodebrown,https://cervejabox.vteximg.com.br/arquivos/ids/175551-1000-1000/Cerveja-artesanal-Bodebrown-Perigosa-Imperial-IPA-lata-473ml-min.jpg
-,Klein,https://clubedomalte.fbitsstatic.net/img/p/klein-bier-pilsen-garrafa-500ml-89075/256237.jpg?w=422&h=422&v=no-change
-,Insana,https://clubedomalte.fbitsstatic.net/img/p/insana-premium-lager-500ml-87685/254723.jpg
-,Way Beer,https://emporiodacerveja.vtexassets.com/arquivos/ids/174185/Cerveja-way-beer-red-ale-600ml.jpg
-,Júpiter,https://superadega.vteximg.com.br/arquivos/ids/165404-520-520/Cerveja-Jupiter-APA-355ml-.jpg
-,Baden Baden,https://static.carrefour.com.br/medias/sys_master/images/images/ha7/hdc/h00/h00/27784336310302.jpg
-,Colorado,https://static.carrefour.com.br/medias/sys_master/images/images/hb2/h27/h00/h00/14495889293342.jpg
-,Invicta,https://superadega.vteximg.com.br/arquivos/ids/163706-1000-1000/cerveja-invicta-1000-ibu-garrafa-500ml.jpg
-,Dortmund,https://images.tcdn.com.br/img/img_prod/657582/cerveja_dortmund_pils_600_ml_63_1_20181002101645.jpg
-,Bamberg,https://clubedomalte.fbitsstatic.net/img/p/bamberg-pilsen-600ml-63412/230265-3.jpg
-,Ampolis,https://clubedomalte.fbitsstatic.net/img/p/ampolis-forevis-600ml-88656/255750.jpg
-,2Cabeças,https://cdn1.appsisecommerce.com.br/clientes/cliente704/produtos/61560/P7722.jpg
-,Wäls,https://cdn.awsli.com.br/600x450/1343/1343273/produto/52392489/3413a4c443.jpg
-,Amazon Beer,https://shopfacil.vteximg.com.br/arquivos/ids/51953124/2322755_1.jpg
-,Dogma,https://d2o1s8t60x9u9v.cloudfront.net/Custom/Content/Products/98/60/986092_cerveja-dogma-modern-310ml_z1_636686326833890775.jpg
-,Heilige,https://statics.angeloni.com.br/super/files/produtos/4036404/4036404_1_zoom.jpg
-,Colombina ,https://www.mywinery.com.br/image/cache/data/Produtos/Colombinas/cerveja%20artesanal%20colombina%20indian%20pale%20ale-600x600.png
+brand,image_url
+Chopp Brahma,https://i2marabraz-a.akamaihd.net/1800x1800/59/00283231761__1_B_ND.jpg
+Bavária,https://static.carrefour.com.br/medias/sys_master/images/images/h59/h3c/h00/h00/13247502221342.jpg
+Bohemia,https://static.carrefour.com.br/medias/sys_master/images/images/hbb/h22/h00/h00/14564861050910.jpg
+Crystal,https://static.carrefour.com.br/medias/sys_master/images/images/h6b/h2f/h00/h00/9416548384798.jpg
+Kaiser,https://static.carrefour.com.br/medias/sys_master/images/images/hd3/h0e/h00/h00/13247569330206.jpg
+Itaipava,https://comper.vteximg.com.br/arquivos/ids/158684-800-800/137367.jpg?v=637210497271970000
+Schin,https://static.carrefour.com.br/medias/sys_master/images/images/ha9/h47/h00/h00/13247492718622.jpg
+Antarctica,https://savegnago.vteximg.com.br/arquivos/ids/278435-1000-1000/CERVEJA-ANTARCTICA-350ML-LATA.jpg
+Brahma,https://static.carrefour.com.br/medias/sys_master/images/images/hce/h53/h00/h00/14684794781726.jpg
+Skol,https://savegnago.vteximg.com.br/arquivos/ids/278450-1000-1000/CERVEJA-SKOL-350ML-LATA.jpg?v=636262097742900000
+Heineken,https://savegnago.vteximg.com.br/arquivos/ids/270413-1000-1000/figura-1frente.jpg
+Budweiser,https://static.carrefour.com.br/medias/sys_master/images/images/h1f/h60/h00/h00/14565659705374.jpg
+Coruja,https://statics.angeloni.com.br/super/files/produtos/3868953/3868953_1_zoom.jpg
+Dado Bier,https://statics.angeloni.com.br/super/files/produtos/4065620/4065620_1_zoom.jpg
+Perro Libre,https://d2o1s8t60x9u9v.cloudfront.net/Custom/Content/Products/98/67/986719_cerveja-perro-libre-apa-american-pale-ale-500ml_z1_636686302340813147.jpg
+Tupiniquim,https://images.tcdn.com.br/img/img_prod/657582/cerveja_tupiniquim_session_ipa_600_ml_341_1_20191122083851.jpg
+Lake Side Beer,https://thebeerplanet.vteximg.com.br/arquivos/ids/466829-1000-1000/Cerveja-Lake-Side-Beer-Lager-Sem-Gluten-355ml.jpg
+Bierland,https://thebeerplanet.vteximg.com.br/arquivos/ids/468018-1000-1000/Cerveja-Bierland-Pilsen-Lata-350ml.jpg?v=637098096361570000
+Eisenbahn,https://muffatosupermercados.vteximg.com.br/arquivos/ids/270597-1000-1000/7898367983615.jpg
+Schornstein,https://cervejabox.vteximg.com.br/arquivos/ids/185154-600-600/Cerveja-artesanal-Schornstein-IPA-500ml-1.jpg
+Bierbaum,https://d8vlg9z1oftyc.cloudfront.net/minhacooper/image/product/5b28bf7402f518d0755b044c13ae0c8620191114100851/850/cerveja-bierbaum-vienna-garrafa-600ml_1924.jpg
+Bier Hoff,https://muffatosupermercados.vteximg.com.br/arquivos/ids/225175-1000-1000/7898940264025.jpg
+Bodebrown,https://cervejabox.vteximg.com.br/arquivos/ids/175551-1000-1000/Cerveja-artesanal-Bodebrown-Perigosa-Imperial-IPA-lata-473ml-min.jpg
+Klein,https://clubedomalte.fbitsstatic.net/img/p/klein-bier-pilsen-garrafa-500ml-89075/256237.jpg?w=422&h=422&v=no-change
+Way Beer,https://emporiodacerveja.vtexassets.com/arquivos/ids/174185/Cerveja-way-beer-red-ale-600ml.jpg
+Júpiter,https://superadega.vteximg.com.br/arquivos/ids/165404-520-520/Cerveja-Jupiter-APA-355ml-.jpg
+Baden Baden,https://static.carrefour.com.br/medias/sys_master/images/images/ha7/hdc/h00/h00/27784336310302.jpg
+Colorado,https://static.carrefour.com.br/medias/sys_master/images/images/hb2/h27/h00/h00/14495889293342.jpg
+Invicta,https://superadega.vteximg.com.br/arquivos/ids/163706-1000-1000/cerveja-invicta-1000-ibu-garrafa-500ml.jpg
+Dortmund,https://images.tcdn.com.br/img/img_prod/657582/cerveja_dortmund_pils_600_ml_63_1_20181002101645.jpg
+Ampolis,https://clubedomalte.fbitsstatic.net/img/p/ampolis-forevis-600ml-88656/255750.jpg
+2Cabeças,https://cdn1.appsisecommerce.com.br/clientes/cliente704/produtos/61560/P7722.jpg
+Wäls,https://cdn.awsli.com.br/600x450/1343/1343273/produto/52392489/3413a4c443.jpg
+Amazon Beer,https://shopfacil.vteximg.com.br/arquivos/ids/51953124/2322755_1.jpg
+Dogma,https://d2o1s8t60x9u9v.cloudfront.net/Custom/Content/Products/98/60/986092_cerveja-dogma-modern-310ml_z1_636686326833890775.jpg
+Heilige,https://statics.angeloni.com.br/super/files/produtos/4036404/4036404_1_zoom.jpg
+Colombina,https://www.mywinery.com.br/image/cache/data/Produtos/Colombinas/cerveja%20artesanal%20colombina%20indian%20pale%20ale-600x600.png
