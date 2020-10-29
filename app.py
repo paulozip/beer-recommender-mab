@@ -5,8 +5,7 @@ import requests
 import streamlit as st
 
 import helpers.SessionState as SessionState
-from helpers.experiment_chart import (cumulative_exploration_plot,
-                                      cumulative_reward_plot, show_best_arm)
+from helpers.experiment_chart import cumulative_exploration_plot, cumulative_reward_plot, show_best_arm
 
 BANDIT_ENDPOINT = 'http://0.0.0.0:8000/{}'
 
