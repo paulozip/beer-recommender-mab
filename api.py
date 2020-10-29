@@ -29,3 +29,7 @@ def reward_arm(payload: Dict):
 
     bandit.update(arm, reward)
     return { 'arm': int(arm), 'brand': BEER[arm], 'reward_update': reward }
+
+@app.get('/health')
+def health_check():
+    return 'It\'s alive!!'

@@ -7,7 +7,7 @@ import streamlit as st
 import helpers.SessionState as SessionState
 from helpers.experiment_chart import cumulative_exploration_plot, cumulative_reward_plot, show_best_arm
 
-BANDIT_ENDPOINT = 'http://0.0.0.0:8000/{}'
+BANDIT_ENDPOINT = 'http://0.0.0.0:5000/{}'
 
 st.markdown("<h1 style='text-align: center'>🍺 Beer recommender 🍺</h1>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: center'>Can we find THE BEST BEER to recommend to people WE DON'T KNOW?</h4>", unsafe_allow_html=True)

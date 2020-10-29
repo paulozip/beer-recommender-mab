@@ -1,0 +1,36 @@
+version: "3"
+
+services:
+  recsys_app:
+    build:
+        context: ./
+        dockerfile: Dockerfile
+    image: recsys:latest
+    command: streamlit run app.py
+    container_name: recsys_app
+    volumes:
+      - app-volume:/app
+    networks:
+      - recsys_network
+    expose:
+      - "8501"
+    ports:
+      - "8501:8501"
+
+  recsys_api:
+    image: recsys:latest
+    command: uvicorn api:app --host 0.0.0.0 --port 5000
+    container_name: recsys_api
+    volumes:
+      - app-volume:/app
+    networks:
+      - recsys_network
+    expose:
+      - "5000"
+    ports:
+      - "5000:5000"
+networks:
+  recsys_network:
+    driver: bridge
+volumes:
+     app-volume:
