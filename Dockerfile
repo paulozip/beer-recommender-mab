@@ -3,6 +3,8 @@ FROM python:3.7
 ADD . ${APP_ROOT}/app
 WORKDIR ${APP_ROOT}/app
 
+ENV RECSYS_API_HOST=recsys
+
 # Packages
 RUN apt-get update && apt-get install -y wget libfreetype6-dev
 
