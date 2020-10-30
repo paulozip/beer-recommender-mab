@@ -55,4 +55,4 @@ with expander:
     st.plotly_chart(cumulative_exploration_plot(arms_rewards))
     st.plotly_chart(cumulative_reward_plot(arms_rewards))
 
-st.markdown("<h5 style='text-align: center;'>Made by <a href=\"https://www.paulovasconcellos.com.br\">Paulo Vasconcellos</a> with ❤️</h5>", unsafe_allow_html=True)
+st.markdown("<h5 style='text-align: center;'>Made by <a href=\"https://me.paulovasconcellos.com.br\">Paulo Vasconcellos</a> with ❤️</h5>", unsafe_allow_html=True)
